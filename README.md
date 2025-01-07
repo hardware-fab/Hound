@@ -66,10 +66,12 @@ The dataset is organized as follows:
 
 ## Note
 
-This work is part of [1], available [online](https://arxiv.org/abs/2408.06296).
+This work is part of [1], available [online](https://doi.org/10.1109/ICCD63220.2024.00027).
 
 This repository is protected by copyright and licensed under the [Apache-2.0 license](https://github.com/hardware-fab/Hound/blob/main/LICENSE).
 
 © 2024 hardware-fab
 
-> [1] Galli, D., Chiari, G., and Zoni, D. (2024). Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning. Accepted for presentation at the 42nd IEEE International Conference on Computer Design (ICCD). arXiv preprint arXiv:2408.06296.
+> [1] D. Galli, G. Chiari and D. Zoni, "Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces using Deep-Learning," 2024 IEEE 42nd International Conference on Computer Design (ICCD), Milan, Italy, 2024, pp. 114-121, doi: 10.1109/ICCD63220.2024.00027.
+
+
